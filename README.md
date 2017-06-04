@@ -3,55 +3,55 @@
 
 2. Model danych 
 
-Użytkownik:
-- imię
-- nazwisko
-- opis użytkownika
-- mail
-- hasło
+  Użytkownik:
+  - imię
+  - nazwisko
+  - opis użytkownika
+  - mail
+  - hasło
 
-Ogłoszenia:
+  Ogłoszenia:
 
-- tytuł
-- miasto
-- treść ogłoszenia
-- zdjęcia
-- komentarze (rel. z komentarz)
+  - tytuł
+  - miasto
+  - treść ogłoszenia
+  - zdjęcia
+  - komentarze (rel. z komentarz)
 
-Komentarz:
-- treść
-- ogłoszenie(rel. do ogłoszenia)
+  Komentarz:
+  - treść
+  - ogłoszenie(rel. do ogłoszenia)
 
-Wiadomości:
-- data
-- tytuł
-- treść
-- nadawca
-- odbiorca
-- status wiadomości
+  Wiadomości:
+  - data
+  - tytuł
+  - treść
+  - nadawca
+  - odbiorca
+  - status wiadomości
 
 3. Widoki
 
-- Strona logowania
-- strona rejestracji użytkownika
-- strona główna z listą ogłoszeń
+  - Strona logowania
+  - strona rejestracji użytkownika
+  - strona główna z listą ogłoszeń
 
-- tworzenie nowego ogłoszenia
-- edytowanie/kasowanie ogłoszenia
+  - tworzenie nowego ogłoszenia
+  - edytowanie/kasowanie ogłoszenia
 
-- dodawanie komentarza do ogłoszenia
+  - dodawanie komentarza do ogłoszenia
 
-- strona użytkownika z jego ogłoszeniami
-- edytowanie użytkownika
-- tworzenie wiadomości
-- strona z wiadomościami użytkownika
+  - strona użytkownika z jego ogłoszeniami
+  - edytowanie użytkownika
+  - tworzenie wiadomości
+  - strona z wiadomościami użytkownika
 
 4. Procesy
 
-- logowanie,
-- wylogowywanie,
-- rejestracja użytkownika 
-- edycja użytkownika
-- dodawanie ogłoszeń
-- dodawanie komentarzy do ogłoszeń
-- wysyłanie wiadomości
+  - logowanie,
+  - wylogowywanie,
+  - rejestracja użytkownika 
+  - edycja użytkownika
+  - dodawanie ogłoszeń
+  - dodawanie komentarzy do ogłoszeń
+  - wysyłanie wiadomości
