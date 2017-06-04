@@ -1,7 +1,7 @@
 1. Cel biznesowy - portalu społecznościowy hhCrew dla fanów muzyki hip hop i alternatywnej gdzie będą mogli informować siebie o koncertach, organizować w grupy na wyjazd, sprzedawać bilety i proponować noclegi na czas wydarzenia;
 
 
-2.Model danych 
+2. Model danych 
 
 Użytkownik:
 - imię
