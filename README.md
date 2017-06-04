@@ -3,32 +3,31 @@
 
 2. Model danych 
 
-  Użytkownik:
-  - imię
-  - nazwisko
-  - opis użytkownika
-  - mail
-  - hasło
+    Użytkownik:
+    - imię
+    - nazwisko
+    - opis użytkownika
+    - mail
+    - hasło
 
-  Ogłoszenia:
+    Ogłoszenia:
+    - tytuł
+    - miasto
+    - treść ogłoszenia
+    - zdjęcia
+    - komentarze (rel. z komentarz)
 
-  - tytuł
-  - miasto
-  - treść ogłoszenia
-  - zdjęcia
-  - komentarze (rel. z komentarz)
+    Komentarz:
+    - treść
+    - ogłoszenie(rel. do ogłoszenia)
 
-  Komentarz:
-  - treść
-  - ogłoszenie(rel. do ogłoszenia)
-
-  Wiadomości:
-  - data
-  - tytuł
-  - treść
-  - nadawca
-  - odbiorca
-  - status wiadomości
+    Wiadomości:
+    - data
+    - tytuł
+    - treść
+    - nadawca
+    - odbiorca
+    - status wiadomości
 
 3. Widoki
 
