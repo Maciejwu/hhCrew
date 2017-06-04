@@ -34,7 +34,6 @@
 
 
 3. Widoki
-
   - Strona logowania
   - strona rejestracji użytkownika
   - strona główna z listą ogłoszeń
