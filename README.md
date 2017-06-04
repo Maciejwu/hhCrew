@@ -12,6 +12,7 @@
     - mail
     - hasło
 
+
     Ogłoszenia:
     - tytuł
     - miasto
@@ -19,9 +20,11 @@
     - zdjęcia
     - komentarze (rel. z komentarz)
 
+
     Komentarz:
     - treść
     - ogłoszenie(rel. do ogłoszenia)
+
 
     Wiadomości:
     - data
@@ -57,5 +60,3 @@
   - rejestracja użytkownika 
   - edycja użytkownika
   - dodawanie ogłoszeń
-  - dodawanie komentarzy do ogłoszeń
-  - wysyłanie wiadomości
