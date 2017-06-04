@@ -1,0 +1,4 @@
+hh_crew:
+    resource: "@hhCrewBundle/Controller/"
+    type:     annotation
+    prefix:   /
